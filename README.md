@@ -13,12 +13,12 @@ also effect of rotation and addition of gaussian noise on segmentation is visual
 
   </h1>
 
-# Normalized Cut Output(based on Intensity difference only:
+## Normalized Cut Output(based on Intensity difference only:
 
     
 ![test2_intensity var(int) =10](https://user-images.githubusercontent.com/111170719/218099022-6be78299-bd4c-4748-98d9-cea9ef8cc88f.jpg)
 
-# Normalized Cut Output(based on Intensity difference and Distance both:
+## Normalized Cut Output(based on Intensity difference and Distance both:
   
 ![test2_both var(int) =10, var(dist) = 5 th=150](https://user-images.githubusercontent.com/111170719/218099116-ebd7fd7a-0dc3-49a2-9f1b-0ef378dd5de2.jpg)
 
