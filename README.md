@@ -27,7 +27,7 @@ also effect of rotation and addition of gaussian noise on segmentation is visual
 Incorporating distance along with Intensity difference of the pixels helps in segmentation of individual object as whole.
 in the example shown, we observe that eye are seperated as another segment when performing nCut using intensity difference only. but when used along with distance similarity eyes and baby is segmented as a single entity which is desirable.
 
-<h1 align="center">Output:
+## Output:
 Original Image Segmentation, Effect of Rotation , Effect of Gaussian Noise addition:
 
   ![1  test2](https://user-images.githubusercontent.com/111170719/218099926-74521766-168f-444c-ba97-7651232259a4.jpg)
