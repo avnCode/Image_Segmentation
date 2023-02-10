@@ -1,4 +1,5 @@
-# Image Segmentation Using Normalized Cut
+# Segmentation Using Normalized Cut
+# Image Segmentation
 
 Normalized Cut is a classical way of Image Segmentation. 
 Which uses Similarity Matrix which can be based on several factors used for segmentation like Intensity, Distance, Texture, Colour.
