@@ -5,7 +5,8 @@ Which uses Similarity Matrix which can be based on several factors used for segm
 here i have done two kind of implementation first implementation is based on Intensity only and second is based on  Intensity and Distance both.
 also effect of rotation and addition of gaussian noise on segmentation is visualized using Matplotlib.
 
-Sample Image:
+<h1 align="center">Sample Image:
+
 
 
 ![test2](https://user-images.githubusercontent.com/111170719/218098958-45593512-cbcc-42c8-b98d-d2b0102c07a4.jpg)
